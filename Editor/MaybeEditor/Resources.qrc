@@ -1,0 +1,53 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>img/bold.png</file>
+        <file>img/broken-link.png</file>
+        <file>img/center-align.png</file>
+        <file>img/close.png</file>
+        <file>img/columns.png</file>
+        <file>img/copy.png</file>
+        <file>img/eraser.png</file>
+        <file>img/export.png</file>
+        <file>img/file.png</file>
+        <file>img/file-1.png</file>
+        <file>img/folder.png</file>
+        <file>img/font.png</file>
+        <file>img/import.png</file>
+        <file>img/indent.png</file>
+        <file>img/italic.png</file>
+        <file>img/justify.png</file>
+        <file>img/left-align.png</file>
+        <file>img/link.png</file>
+        <file>img/list.png</file>
+        <file>img/list-1.png</file>
+        <file>img/outdent.png</file>
+        <file>img/paperclip.png</file>
+        <file>img/paragraph.png</file>
+        <file>img/paste.png</file>
+        <file>img/preview.png</file>
+        <file>img/print.png</file>
+        <file>img/redo.png</file>
+        <file>img/right-align.png</file>
+        <file>img/save.png</file>
+        <file>img/save-1.png</file>
+        <file>img/scissors.png</file>
+        <file>img/strikethrough.png</file>
+        <file>img/subscript.png</file>
+        <file>img/superscript.png</file>
+        <file>img/table.png</file>
+        <file>img/table-1.png</file>
+        <file>img/text-height.png</file>
+        <file>img/text-width.png</file>
+        <file>img/underline.png</file>
+        <file>img/undo.png</file>
+        <file>img/icons8-exit-64.png</file>
+        <file>img/icons8-about-48.png</file>
+        <file>img/iconfinder_qt_337140.png</file>
+        <file>img/icons8-m-96.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>img/icons8-exit-64.png</file>
+        <file>img/icons8-about-48.png</file>
+        <file>img/icons8-m-96.png</file>
+    </qresource>
+</RCC>
